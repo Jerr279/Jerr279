@@ -1,4 +1,4 @@
-# ✨ Welcome to my **profile** ✨
+# 🌵 Welcome to my **profile** 🌵
 
 ### 💻 I am a student at **Grafisch Lyceum Rotterdam**, following **Software engineering** 
 
@@ -6,7 +6,7 @@
 - 👀 I’m interested in coding, Cyber-security, astronomy and science
 - 🌱 I’m currently learning python and studying Software engineering
 
-##### skills
+##### skills 👨‍💻
 -Python
 -HTML, CSS
 -javascript
