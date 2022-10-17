@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeroen</h1>
+<h1 align="center">Hi 👋, I'm Jeroen (Jerr)</h1>
 <h3 align="center">I am taking software engineering at Grafisch Lyceeum Rotterdam</h3>
 
 - 🔭 I’m currently working on **CV website**
