@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeroen (Jerr)</h1>
-<h3 align="center">🌵I am taking software engineering at Grafisch Lyceum Rotterdam🌵</h3>
+<h3 align="center">🌵Right now I am pursuing my software engineering degree from Grafisch Lyceum Rotterdam.🌵</h3>
 
 - 🔭 I’m currently working on **CV website**
 
