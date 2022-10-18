@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front end, C and Python**
 
-- 👨‍💻 All of my projects are available <a href="https://gentle-hill-03a8dd403.2.azurestaticapps.net/">HERE</a>
+- 👨‍💻 All of my projects are available on <a href="https://gentle-hill-03a8dd403.2.azurestaticapps.net/">my site</a>
 
 - 📫 How to reach me **Jhsuiker@gmail.com**
 
