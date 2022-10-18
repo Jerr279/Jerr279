@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front end, C and Python**
 
-- 👨‍💻 All of my projects are available at --
+- 👨‍💻 All of my projects are available at https://gentle-hill-03a8dd403.2.azurestaticapps.net/
 
 - 📫 How to reach me **Jhsuiker@gmail.com**
 
