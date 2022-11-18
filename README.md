@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeroen (Jerr)</h1>
 <h3 align="center">🌵Right now I am pursuing my software engineering degree from Grafisch Lyceum Rotterdam.🌵</h3>
 
-- 🔭 I’m currently working on **CV website**
+- 🔭 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **Front end, C and Python**
 
