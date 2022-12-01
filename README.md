@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front end, C and Python**
 
-- 👨‍💻 All of my projects are available on <a href="htttps://www.Jerr279.nl">My Website</a>
+- 👨‍💻 All of my projects are available on <a href="htttps://Jerr279.nl">My Website</a>
 
 - 📫 How to reach me **Jerr279@proton.me**
 
