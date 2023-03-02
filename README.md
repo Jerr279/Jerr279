@@ -8,7 +8,7 @@ About Me: <br>
  📫 How to reach me Jerr279@proton.me<br>
 </p>
 
-<script src="https://tryhackme.com/badge/683735"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/JerrZ.png" alt="TryHackMe">
 
 # 💻 Languages and Tools:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
