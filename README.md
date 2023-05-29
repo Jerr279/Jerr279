@@ -6,7 +6,7 @@ About Me: <br>
  🌱 I’m currently learning Front end, C and Python<br>
  👨‍💻 All of my projects are available on <a href="https://www.jerr279.nl/">My Website</a><br>
  📫 How to reach me Jerr279@proton.me<br>
- 👾 Tryhackme <a href="https://tryhackme.com/p/JerrZ">Here</a>
+ 👾 Tryhackme <a href="https://tryhackme.com/p/JerrZ">Here</a><br>
  👨🏻‍💻 certified whitehat hacker associate
  </p>
 
