@@ -2,9 +2,8 @@
 <h3 align="center">🌵Right now I am pursuing my software engineering degree from Grafisch Lyceum Rotterdam.🌵</h3>
 
 About Me: <br>
- 🔭 I’m currently working on My website<br>
+ 🔭 I’m currently working on Collection of purple team scripts<br>
  🌱 I’m currently learning Front end, C and Python<br>
- 👨‍💻 All of my projects are available on <a href="https://www.jerr279.nl/">My Website</a><br>
  📫 How to reach me Jerr279@proton.me<br>
  👾 Tryhackme <a href="https://tryhackme.com/p/JerrZ">Here</a><br>
  👨🏻‍💻 certified whitehat hacker associate
