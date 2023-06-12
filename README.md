@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeroen (Jerr)</h1>
-<h3 align="center">🌵Right now I am pursuing my software engineering degree from Grafisch Lyceum Rotterdam.🌵</h3>
+<h3 align="center">🌵Right now I am pursuing my software engineering degree from Grafisch Lyceum.🌵</h3>
 
 About Me: <br>
  🔭 I’m currently working on Collection of purple team scripts<br>
