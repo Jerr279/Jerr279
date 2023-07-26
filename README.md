@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeroen (Jerr)</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79E00&width=435&lines=software+engineering+student+at+Grafisch+Lyceum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79E00&width=435&lines=software+engineering+student)](https://git.io/typing-svg)
 
 About Me: <br>
  🔭 I’m currently working on Collection of purple team scripts<br>
