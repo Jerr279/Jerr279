@@ -4,7 +4,7 @@
 
 About Me: <br>
  🔭 I’m currently working on Collection of purple team scripts<br>
- 🌱 I’m currently learning ASP, C and Python<br>
+ 🌱 I’m currently learning .NET, PHP and Hacking<br>
  📫 How to reach me Jerr279@proton.me<br>
  👾 Tryhackme <a href="https://tryhackme.com/p/JerrZ">Here</a><br>
  👨🏻‍💻 certified whitehat hacker associate
