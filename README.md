@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeroen (Jerr)</h1>
+<h1 align="center">Hi 👋, I'm Jeroen (Jerr) AKA ExploitRaven</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=14&pause=1000&color=4AF626&background=000000&center=true&vCenter=true&width=435&lines=software+engineering+student+from+the+Netherlands)
 
