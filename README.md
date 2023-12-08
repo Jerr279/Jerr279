@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=14&pause=1000&color=4AF626&background=000000&center=true&vCenter=true&width=435&lines=software+engineering+student+from+the+Netherlands)
 
 About Me: <br>
- 🔭 I’m currently working on Collection of purple team scripts<br>
+ 🔭 I’m currently working on a pentest automation tool<br>
  🌱 I’m currently learning .NET, Web3 pentesting and Studying for my OSCP<br>
  📫 How to reach me Jerr279@proton.me<br>
  👾 Tryhackme <a href="https://tryhackme.com/p/JerrZ">Here</a><br>
