@@ -2,6 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=14&pause=1000&color=4AF626&background=000000&center=true&vCenter=true&width=435&lines=software+engineering+student+from+the+Netherlands)
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jerrh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 About Me: <br>
  🔭 I’m currently working on Collection of purple team scripts<br>
  🌱 I’m currently learning .NET, Web3 pentesting and Studying for my OSCP<br>
@@ -22,7 +28,6 @@ About Me: <br>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
@@ -32,6 +37,7 @@ About Me: <br>
 </p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Jerr279&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
