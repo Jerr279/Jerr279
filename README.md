@@ -2,12 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=14&pause=1000&color=4AF626&background=000000&center=true&vCenter=true&width=435&lines=software+engineering+student+from+the+Netherlands)
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/jerrh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 About Me: <br>
  🔭 I’m currently working on Collection of purple team scripts<br>
  🌱 I’m currently learning .NET, Web3 pentesting and Studying for my OSCP<br>
@@ -15,6 +9,12 @@ About Me: <br>
  👾 Tryhackme <a href="https://tryhackme.com/p/JerrZ">Here</a><br>
  👨🏻‍💻 CWA Certified (certified whitehat hacker associate)
  </p>
+
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/jerrh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/JerrZ.png" alt="TryHackMe">
  
